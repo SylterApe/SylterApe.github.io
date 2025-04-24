@@ -71,7 +71,7 @@ body {
   
   .button:hover {
     background-color: #c97026ff;
-    color: #ffffff;
+    color: #999999ff;
   }
   
   @media (min-width: 768px) {
